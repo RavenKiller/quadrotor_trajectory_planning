@@ -6,7 +6,7 @@ Run `main.m` to start the program.
 
 `traj_opt7.m` is key file to generate a trajectory. The current algorithm use a 7-order piecewise polynomial to generate a smooth trajectory. Constrains are listed below:
 
-![image](imgs/formula.png)
+<img src="imgs/formula.png" alt="image" style="zoom:67%;" />
 
 ### Examples
 
